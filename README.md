@@ -13,7 +13,7 @@
     <ul>
      <li>Learn how to deploy a PERN app on Heroku</li>
      <li>Add to the application to further solidify understanding of functional components</li>
-     <li>Rebuild a previous project using PERN with functional components and Hooks</li>
+     <li>Have list refresh/revalidate when a new task is added without manually reloading page.</li>
     </ul>
 <hr>
   <h5>To run the app...</h5>
